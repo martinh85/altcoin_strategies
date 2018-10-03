@@ -1,0 +1,663 @@
+,Exchange,Coin,Pair,Volume
+0,Binance,0x,ZRX/BTC,3016423
+1,Bittrex,2give,2GIVE/BTC,3664
+2,Okex,Ace (tokenstars),ACE/BTC,155437
+3,Okex,Achain,ACT/BTC,31676
+4,Okex,Acute angle cloud,AAC/BTC,109814
+5,Kucoin,Adbank,ADB/BTC,53656
+6,Binance,Adex,ADX/BTC,415334
+7,Hitbtc,Adhive,ADH/BTC,35073
+8,Bittrex,Adtoken,ADT/BTC,88646
+9,Binance,Aelf,ELF/BTC,1042322
+10,Bittrex,Aeon,AEON/BTC,9950
+11,Binance,Aeron,ARN/BTC,4633743
+12,Binance,Aeternity,AE/BTC,798035
+13,Binance,Agrello,DLT/BTC,1707185
+14,Okex,Ai doctor,AIDOC/BTC,46568
+15,Bittrex,Aidcoin,AID/BTC,29176
+16,Kucoin,Aigang,AIX/BTC,35583
+17,Binance,Aion,AION/BTC,2725368
+18,Okex,Airbloc,ABL/BTC,138960
+19,Binance,Airswap,AST/BTC,118933
+20,Hitbtc,Airtoken,AIR/BTC,1068
+21,Okex,All sports,SOC/BTC,192043
+22,Hitbtc,Alphacat,ACAT/BTC,669045
+23,Binance,Ambrosus,AMB/BTC,110551
+24,Hitbtc,Animation vision cash,AVH/BTC,1
+25,Kucoin,Aphelion,APH/BTC,148352
+26,Binance,Appcoins,APPC/BTC,1039106
+27,Bittrex,Aragon,ANT/BTC,11898
+28,Hitbtc,Arbitragect,ARCT/BTC,27
+29,Okex,Arcblock,ABT/BTC,145818
+30,Hitbtc,Ardor,ARDR/BTC,198099
+31,Binance,Ark,ARK/BTC,215386
+32,Bittrex,Artbyte,ABY/BTC,6562
+33,Okex,Asch,XAS/BTC,516
+34,Hitbtc,Atlant,ATL/BTC,1741
+35,Hitbtc,Atmchain,ATM/BTC,34
+36,Hitbtc,Auctus,AUC/BTC,213
+37,Binance,Augur,REP/BTC,662701
+38,Kucoin,Aurora,AOA/BTC,417193
+39,Bittrex,Auroracoin,AUR/BTC,3783
+40,Hitbtc,Authorship,ATS/BTC,385
+41,Okex,Aventus,AVT/BTC,0
+42,Kucoin,Axpire,AXPR/BTC,56836
+43,Kucoin,Babb,BAX/BTC,27803
+44,Hitbtc,Banca,BANCA/BTC,43211
+45,Hitbtc,Bancor,BNT/BTC,72271
+46,Hitbtc,Bankera,BNK/BTC,16636
+47,Okex,Bankex,BKX/BTC,448443
+48,Binance,Basic attention token,BAT/BTC,666503
+49,Bittrex,Bean cash,BITB/BTC,162063
+50,Hitbtc,Betterbetting,BETR/BTC,35474
+51,Binance,Binance coin,BNB/BTC,18891266
+52,Bittrex,Bitbay,BAY/BTC,34952
+53,Kucoin,Bitclave,CAT/BTC,1723
+54,Hitbtc,Bitcoin cash,BCH/BTC,49504365
+55,Binance,Bitcoin diamond,BCD/BTC,729747
+56,Hitbtc,Bitcoin gold,BTG/BTC,888847
+57,Hitbtc,Bitcoin interest,BCI/BTC,411
+58,Hitbtc,Bitcoin private,BTCP/BTC,17064
+59,Okex,Bitcoinx,BCX/BTC,456
+60,Hitbtc,Bitcore,BTX/BTC,46469
+61,Bittrex,Bitcrystals,BCY/BTC,1491
+62,Hitbtc,Bitdice,CSNO/BTC,19
+63,Hitbtc,Bitjob,STU/BTC,157
+64,Okex,Bitkan,KAN/BTC,8373
+65,Bittrex,Bitsend,BSD/BTC,100205
+66,Binance,Bitshares,BTS/BTC,238916
+67,Bittrex,Bitswift,BITS/BTC,2558
+68,Bittrex,Bittube,TUBE/BTC,52365
+69,Bittrex,Blackcoin,BLK/BTC,20051
+70,Hitbtc,Blackmoon,BMC/BTC,10
+71,Hitbtc,Blitzpredict,XBP/BTC,1
+72,Kucoin,Block array,ARY/BTC,27424
+73,Binance,Blockmason credit protocol,BCPT/BTC,455179
+74,Hitbtc,Blockmesh,BMH/BTC,1550
+75,Bittrex,Blocknet,BLOCK/BTC,42783
+76,Kucoin,Blockport,BPT/BTC,43242
+77,Bittrex,Blocktix,TIX/BTC,9722
+78,Bittrex,Blockv,VEE/BTC,10936
+79,Bittrex,Bloom,BLT/BTC,12203
+80,Binance,Blox,CDT/BTC,131271
+81,Binance,Bluzelle,BLZ/BTC,178057
+82,Bittrex,Bnktothefuture,BFT/BTC,32642
+83,Kucoin,Boscoin,BOS/BTC,29097
+84,Kucoin,Bounty0x,BNTY/BTC,1437
+85,Bittrex,Boxx token [blockparty],BOXX/BTC,81864
+86,Binance,Bread,BRD/BTC,690810
+87,Bittrex,Breakout,BRK/BTC,611
+88,Bittrex,Breakout stake,BRX/BTC,399
+89,Hitbtc,Bridge protocol,TOLL/BTC,46
+90,Hitbtc,Budbo,BUBO/BTC,24
+91,Kucoin,Bumo,BU/BTC,227203
+92,Bittrex,Burst,BURST/BTC,34969
+93,Bittrex,Byteball bytes,GBYTE/BTC,19383
+94,Bittrex,Bytecent,BYC/BTC,1288
+95,Binance,Bytecoin,BCN/BTC,690065
+96,Okex,Bytom,BTM/BTC,233335
+97,Bittrex,Cannabiscoin,CANN/BTC,10790
+98,Kucoin,Canyacoin,CAN/BTC,59503
+99,Kucoin,Cappasity,CAPP/BTC,111772
+100,Binance,Cardano,ADA/BTC,8322528
+101,Kucoin,Cargox,CXO/BTC,3718
+102,Okex,Carinet,CIT/BTC,8803
+103,Hitbtc,Cartaxi token,CTX/BTC,5
+104,Kucoin,Carvertical,CV/BTC,15429
+105,Hitbtc,Cashaa,CAS/BTC,5823
+106,Bittrex,Cashbet coin,CBC/BTC,53616
+107,Hitbtc,Centrality,CENNZ/BTC,2339
+108,Binance,Chainlink,LINK/BTC,467848
+109,Kucoin,Change,CAG/BTC,841
+110,Binance,Chatcoin,CHAT/BTC,689036
+111,Kucoin,Chronobank,TIME/BTC,26358
+112,Hitbtc,Chronologic,DAY/BTC,1146
+113,Binance,Cindicator,CND/BTC,174895
+114,Bittrex,Circuits of value,COVAL/BTC,13369
+115,Binance,Civic,CVC/BTC,1307555
+116,Poloniex,Clams,CLAM/BTC,19439
+117,Hitbtc,Clearcoin,XCLR/BTC,1637
+118,Kucoin,Clearpoll,POLL/BTC,6437
+119,Binance,Cloakcoin,CLOAK/BTC,464406
+120,Kucoin,Coinfi,COFI/BTC,9899
+121,Kucoin,Coinpoker,CHP/BTC,7542
+122,Hitbtc,Coinvest,COIN/BTC,8
+123,Hitbtc,Colu local network,CLN/BTC,843
+124,Okex,Commerceblock,CBT/BTC,262
+125,Hitbtc,Consentium,CSM/BTC,123
+126,Kucoin,Constellation,DAG/BTC,6498
+127,Okex,Content and ad network,CAN/BTC,480793
+128,Hitbtc,Copytrack,CPY/BTC,1
+129,Okex,Cortex,CTXC/BTC,214503
+130,Kucoin,Cosmo coin,COSM/BTC,389314
+131,Hitbtc,Coss,COSS/BTC,2
+132,Poloniex,Counterparty,XCP/BTC,11118
+133,Kucoin,Covesting,COV/BTC,14142
+134,Kucoin,Cpchain,CPC/BTC,177
+135,Okex,Cred,LBA/BTC,507939
+136,Bittrex,Creditbit,CRB/BTC,1280
+137,Kucoin,Credits,CS/BTC,99835
+138,Bittrex,Crowd machine,CMCT/BTC,15993677
+139,Bittrex,Crown,CRW/BTC,241497
+140,Hitbtc,Cryptaur,CPT/BTC,19301
+141,Kucoin,Crypterium,CRPT/BTC,654315
+142,Binance,Crypto.com,MCO/BTC,411379
+143,Hitbtc,Crypto20,C20/BTC,917
+144,Hitbtc,Cryptonex,CNX/BTC,0
+145,Hitbtc,Cryptoping,PING/BTC,0
+146,Okex,Cube,AUTO/BTC,38876
+147,Bittrex,Curecoin,CURE/BTC,1026
+148,Hitbtc,Cvcoin,CVCOIN/BTC,374
+149,Binance,Cybermiles,CMT/BTC,627037
+150,Okex,Cybervein,CVT/BTC,2409
+151,Kucoin,Dacc,DACC/BTC,127849
+152,Okex,Dadi,DADI/BTC,370449
+153,Hitbtc,Daneel,DAN/BTC,1655
+154,Hitbtc,Dash,DASH/BTC,4072319
+155,Hitbtc,Dashcoin,DSH/BTC,2
+156,Bittrex,Data,DTA/BTC,3101756
+157,Bittrex,Databits,DTB/BTC,658
+158,Okex,Datum,DAT/BTC,40992
+159,Kucoin,Datx,DATX/BTC,834
+160,Hitbtc,Dav coin,DAV/BTC,107742
+161,Hitbtc,Dcorp utility,DRPU/BTC,667
+162,Kucoin,Debitum,DEB/BTC,38265
+163,Bittrex,Decent,DCT/BTC,113631
+164,Hitbtc,Decentbet,DBET/BTC,12664
+165,Binance,Decentraland,MANA/BTC,171177
+166,Kucoin,Decision token,HST/BTC,24323
+167,Bittrex,Decred,DCR/BTC,247570
+168,Kucoin,Deepbrain chain,DBC/BTC,85567
+169,Kucoin,Deeponion,ONION/BTC,7856
+170,Okex,Delphy,DPY/BTC,82322
+171,Binance,Dent,DENT/BTC,735917
+172,Hitbtc,Dentacoin,DCN/BTC,21214
+173,Bittrex,Diamond,DMD/BTC,19995
+174,Bittrex,Digibyte,DGB/BTC,533689
+175,Hitbtc,Digital asset exchange token,DAXT/BTC,0
+176,Hitbtc,Digital insurance token,DIT/BTC,125
+177,Hitbtc,Digitalnote,XDN/BTC,296886
+178,Binance,Digixdao,DGD/BTC,72163
+179,Hitbtc,Dimcoin,DIM/BTC,1
+180,Hitbtc,Dipnet,DPN/BTC,3126
+181,Kucoin,Distributed credit chain,DCC/BTC,708
+182,Binance,District0x,DNT/BTC,379754
+183,Bittrex,Dmarket,DMT/BTC,48148
+184,Kucoin,Docademic,MTC/BTC,691402
+185,Binance,Dock,DOCK/BTC,1017815
+186,Poloniex,Dogecoin,DOGE/BTC,754344
+187,Hitbtc,Domraider,DRT/BTC,12
+188,Bittrex,Dopecoin,DOPE/BTC,3584
+189,Hitbtc,Dorado,DOR/BTC,90175
+190,Hitbtc,Dovu,DOV/BTC,73173
+191,Hitbtc,Dragon coins,DRG/BTC,547
+192,Kucoin,Dragonchain,DRGN/BTC,133932
+193,Hitbtc,Dubaicoin,DBIX/BTC,3947
+194,Hitbtc,Dws,DWS/BTC,494
+195,Bittrex,Dynamic,DYN/BTC,6069
+196,Bittrex,E-gulden,EFL/BTC,11681
+197,Kucoin,Ebitcoin,EBTC/BTC,1365
+198,Bittrex,Eboost,EBST/BTC,76637
+199,Hitbtc,Echolink,EKO/BTC,263
+200,Kucoin,Eden,EDN/BTC,13640
+201,Hitbtc,Edgeless,EDG/BTC,93586
+202,Kucoin,Egretia,EGT/BTC,243
+203,Binance,Eidoo,EDO/BTC,206440
+204,Bittrex,Einsteinium,EMC2/BTC,31141
+205,Hitbtc,Ejoy,EJOY/BTC,148058
+206,Bittrex,Elastic,XEL/BTC,7900
+207,Kucoin,Elastos,ELA/BTC,55985
+208,Kucoin,Electrify.asia,ELEC/BTC,7395
+209,Kucoin,Electroneum,ETN/BTC,521587
+210,Hitbtc,Elementrem,ELE/BTC,43
+211,Kucoin,Elixir,ELIX/BTC,6602
+212,Hitbtc,Emercoin,EMC/BTC,164293
+213,Okex,Encrypgen,DNA/BTC,4697
+214,Bittrex,Endor protocol,EDR/BTC,51516
+215,Bittrex,Energycoin,ENRG/BTC,6424
+216,Hitbtc,Engagement token,ENGT/BTC,9379
+217,Binance,Enigma,ENG/BTC,627121
+218,Binance,Enjin coin,ENJ/BTC,727734
+219,Binance,Eos,EOS/BTC,18151438
+220,Hitbtc,Eroscoin,ERO/BTC,129
+221,Hitbtc,Ethbits,ETBS/BTC,9965
+222,Hitbtc,Etherecash,ECH/BTC,0
+223,Hitbtc,Ethereum,ETH/BTC,63131899
+224,Okex,Ethereum classic,ETC/BTC,19295609
+225,Hitbtc,Etheroll,DICE/BTC,0
+226,Binance,Etherparty,FUEL/BTC,3834360
+227,Binance,Ethlend,LEND/BTC,1001052
+228,Binance,Ethos,BQX/BTC,1018113
+229,Bittrex,Europecoin,ERC/BTC,20958
+230,Binance,Everex,EVX/BTC,102287
+231,Bittrex,Evergreencoin,EGC/BTC,15631
+232,Bitfinex,Everipedia,IQX/BTC,177
+233,Okex,Exchange union,XUC/BTC,1986
+234,Hitbtc,Exchangen,EXN/BTC,0
+235,Bittrex,Exclusivecoin,EXCL/BTC,1621
+236,Bittrex,Expanse,EXP/BTC,24792
+237,Kucoin,Experty,EXY/BTC,40317
+238,Hitbtc,Faceter,FACE/BTC,13566
+239,Poloniex,Factom,FCT/BTC,18206
+240,Okex,Fairgame,FAIR/BTC,1252
+241,Hitbtc,Fantomcoin,FCN/BTC,618
+242,Bittrex,Feathercoin,FTC/BTC,18089
+243,Hitbtc,Fintrux network,FTX/BTC,8667
+244,Okex,Firstblood,1ST/BTC,201791
+245,Hitbtc,Flip,FLP/BTC,468
+246,Kucoin,Flixxo,FLIXX/BTC,905
+247,Bittrex,Flo,FLO/BTC,1358
+248,Hitbtc,Flypme,FYP/BTC,53669
+249,Bittrex,Foldingcoin,FLDC/BTC,24368
+250,Kucoin,Fortuna,FOTA/BTC,10519
+251,Hitbtc,Freyrchain,FREC/BTC,1016746
+252,Hitbtc,Friendz,FDZ/BTC,16
+253,Hitbtc,Fujinto,NTO/BTC,1
+254,Binance,Funfair,FUN/BTC,1353069
+255,Hitbtc,Fuzex,FXT/BTC,3137
+256,Bittrex,Gambit,GAM/BTC,221
+257,Bittrex,Gamecredits,GAME/BTC,25750
+258,Binance,Gas,GAS/BTC,424862
+259,Kucoin,Gatcoin,GAT/BTC,1900
+260,Okex,Genaro network,GNX/BTC,70383
+261,Binance,Genesis vision,GVT/BTC,2230948
+262,Bittrex,Geocoin,GEO/BTC,453
+263,Okex,Gifto,GTO/BTC,6557095
+264,Kucoin,Gladius token,GLA/BTC,182
+265,Okex,Global social chain,GSC/BTC,179
+266,Bittrex,Gnosis,GNO/BTC,18038
+267,Hitbtc,Gobyte,GBX/BTC,35959
+268,Binance,Gochain,GO/BTC,326923
+269,Bittrex,Goldcoin,GLD/BTC,6699
+270,Binance,Golem,GNT/BTC,203934
+271,Bittrex,Golos,GOLOS/BTC,5274
+272,Bittrex,Golos gold,GBG/BTC,1315
+273,Hitbtc,Greenmed,GRMD/BTC,913
+274,Bittrex,Gridcoin,GRC/BTC,3016
+275,Binance,Groestlcoin,GRS/BTC,92156
+276,Bittrex,Gulden,NLG/BTC,19934
+277,Binance,Gxchain,GXS/BTC,127379
+278,Kucoin,Hacken,HKN/BTC,16627
+279,Hitbtc,Hackspace capital,HAC/BTC,48
+280,Hitbtc,Happycoin,HPC/BTC,27
+281,Kucoin,Havven,HAV/BTC,104035
+282,Hitbtc,Helbiz,HBZ/BTC,24
+283,Bittrex,Hempcoin,THC/BTC,8746
+284,Hitbtc,Hero,HERO/BTC,2198
+285,Kucoin,Herocoin,PLAY/BTC,7028
+286,Okex,Hi mutual society,HMC/BTC,101917
+287,Okex,High performance blockchain,HPB/BTC,857795
+288,Hitbtc,Hirematch,HIRE/BTC,7
+289,Okex,Hitchain,HIT/BTC,1123
+290,Hitbtc,Hive project,HVN/BTC,2495
+291,Binance,Holo,HOT/BTC,2030841
+292,Binance,Horizen,ZEN/BTC,159213
+293,Hitbtc,Htmlcoin,HTML/BTC,1443
+294,Bittrex,Humaniq,HMQ/BTC,7013
+295,Poloniex,Huntercoin,HUC/BTC,638
+296,Okex,Hycon,HYC/BTC,613213
+297,Bittrex,Hydro,HYDRO/BTC,637326
+298,Okex,Hydro protocol,HOT/BTC,2655
+299,Binance,Hypercash,HC/BTC,700111
+300,Bittrex,I/o coin,IOC/BTC,5743
+301,Binance,Icon,ICX/BTC,5914576
+302,Binance,Iconomi,ICN/BTC,74752
+303,Hitbtc,Icos,ICOS/BTC,4702
+304,Binance,Iexec rlc,RLC/BTC,84241
+305,Bittrex,Ignis,IGNIS/BTC,51005
+306,Bittrex,Iht real estate protocol,IHT/BTC,2518620
+307,Hitbtc,Imbrex,REX/BTC,0
+308,Bittrex,Incent,INCNT/BTC,65
+309,Hitbtc,Indahash,IDH/BTC,114
+310,Hitbtc,Indicoin,INDI/BTC,162
+311,Hitbtc,Ink,INK/BTC,0
+312,Okex,Ins ecosystem,INS/BTC,156703
+313,Okex,Insurchain,INSUR/BTC,57151
+314,Okex,Internet node token,INT/BTC,92095
+315,Bittrex,Internet of people,IOP/BTC,12289
+316,Hitbtc,Investfeed,IFT/BTC,0
+317,Bittrex,Ion,ION/BTC,6533
+318,Binance,Iost,IOST/BTC,1891306
+319,Okex,Iot chain,ITC/BTC,229757
+320,Binance,Iota,IOTA/BTC,6202803
+321,Binance,Iotex,IOTX/BTC,896910
+322,Okex,Ipchain,IPC/BTC,946
+323,Kucoin,Iungo,ING/BTC,13179
+324,Hitbtc,Ivy,IVY/BTC,8353
+325,Hitbtc,Ixt,IXT/BTC,3377
+326,Kucoin,Jet8,J8T/BTC,29705
+327,Kucoin,Jibrel network,JNT/BTC,38014
+328,Hitbtc,Jury.online token,JOT/BTC,5652
+329,Hitbtc,Karatgold coin,KBC/BTC,40095
+330,Okex,Kcash,KCASH/BTC,47325
+331,Kucoin,Kickcoin,KICK/BTC,73379
+332,Hitbtc,Kind ads token,KIND/BTC,0
+333,Binance,Komodo,KMD/BTC,245311
+334,Bittrex,Kore,KORE/BTC,1735
+335,Hitbtc,Kubera coin,KBR/BTC,99
+336,Kucoin,Kucoin shares,KCS/BTC,97145
+337,Binance,Kyber network,KNC/BTC,246452
+338,Kucoin,Lala world,LALA/BTC,1091
+339,Hitbtc,Lamden,TAU/BTC,1462
+340,Hitbtc,Lampix,PIX/BTC,14219
+341,Kucoin,Latoken,LA/BTC,6285
+342,Bittrex,Lbry credits,LBC/BTC,27390
+343,Hitbtc,Leadcoin,LDC/BTC,1
+344,Hitbtc,Level up coin,LUC/BTC,1392
+345,Okex,Leverj,LEV/BTC,204392
+346,Hitbtc,Life,LIFE/BTC,5609
+347,Okex,Lightchain,LIGHT/BTC,236888
+348,Hitbtc,Linker coin,LNC/BTC,4847
+349,Okex,Linkeye,LET/BTC,109836
+350,Hitbtc,Lisk,LSK/BTC,1199344
+351,Binance,Litecoin,LTC/BTC,10618168
+352,Hitbtc,Litecoin cash,LCC/BTC,2830
+353,Hitbtc,Local world forwarders,LWF/BTC,385
+354,Kucoin,Locicoin,LOCI/BTC,10489
+355,Hitbtc,Locktrip,LOC/BTC,63865
+356,Bittrex,Lomocoin,LMC/BTC,18226
+357,Binance,Loom network,LOOM/BTC,357428
+358,Binance,Loopring,LRC/BTC,516815
+359,Binance,Lunyr,LUN/BTC,477432
+360,Kucoin,Lympo,LYM/BTC,112309
+361,Hitbtc,Maecenas,ART/BTC,0
+362,Okex,Maggie,MAG/BTC,3855
+363,Bittrex,Magi,XMG/BTC,4263
+364,Hitbtc,Maidsafecoin,MAID/BTC,421417
+365,Binance,Mainframe,MFT/BTC,3403537
+366,Okex,Maker,MKR/BTC,670717
+367,Bittrex,Matchpool,GUP/BTC,123933
+368,Kucoin,Matrix ai network,MAN/BTC,18636
+369,Hitbtc,Matryx,MTX/BTC,174
+370,Hitbtc,Maximine coin,MXM/BTC,15
+371,Hitbtc,Mcap,MCAP/BTC,129
+372,Okex,Measurable data token,MDT/BTC,85371
+373,Kucoin,Medicalchain,MTN/BTC,62800
+374,Kraken,Melon,MLN/BTC,12580
+375,Bittrex,Memetic / pepecoin,MEME/BTC,7479
+376,Kucoin,Merculet,MVP/BTC,1573
+377,Bittrex,Mercury,MER/BTC,10535
+378,Binance,Metal,MTL/BTC,1063463
+379,Bitfinex,Metaverse etp,ETP/BTC,65100
+380,Bittrex,Metronome,MET/BTC,12550
+381,Okex,Micromoney,AMM/BTC,5323
+382,Hitbtc,Minereum,MNE/BTC,5
+383,Hitbtc,Minexcoin,MNX/BTC,823
+384,Okex,Mithril,MITH/BTC,2189794
+385,Hitbtc,Mobilego,EMGO/BTC,23405
+386,Kucoin,Mobius,MOBI/BTC,104
+387,Binance,Modum,MOD/BTC,113196
+388,Binance,Moeda loyalty points,MDA/BTC,55815
+389,Okex,Molecular future,MOF/BTC,176920
+390,Bittrex,Monacoin,MONA/BTC,48735
+391,Binance,Monero,XMR/BTC,4350923
+392,Hitbtc,Monero classic,XMC/BTC,12
+393,Hitbtc,Monero original,XMO/BTC,14107
+394,Bittrex,Monetaryunit,MUE/BTC,22467
+395,Binance,Monetha,MTH/BTC,428469
+396,Bittrex,More coin,MORE/BTC,5984
+397,Hitbtc,Morpheus labs,MITX/BTC,17543
+398,Bittrex,Musicoin,MUSIC/BTC,19659
+399,Bittrex,Myriad,XMY/BTC,7291
+400,Bittrex,Naga,NGC/BTC,6964
+401,Poloniex,Namecoin,NMC/BTC,12975
+402,Hitbtc,Nanjcoin,NANJ/BTC,266
+403,Binance,Nano,NANO/BTC,3276871
+404,Binance,Navcoin,NAV/BTC,218354
+405,Hitbtc,Naviaddress,NAVI/BTC,96814
+406,Binance,Neblio,NEBL/BTC,304042
+407,Binance,Nebulas,NAS/BTC,727229
+408,Binance,Nem,XEM/BTC,3036474
+409,Binance,Neo,NEO/BTC,5745024
+410,Bittrex,Neoscoin,NEOS/BTC,1975
+411,Hitbtc,Neumark,NEU/BTC,60
+412,Hitbtc,Neurotoken,NTK/BTC,154
+413,Bittrex,Nexium,NXC/BTC,2599
+414,Hitbtc,Nexo,NEXO/BTC,107559
+415,Binance,Nexus,NXS/BTC,427334
+416,Hitbtc,Nimiq,NIM/BTC,91224
+417,Hitbtc,Noah coin,NOAH/BTC,935308
+418,Bittrex,Nolimitcoin,NLC2/BTC,2327
+419,Bittrex,Nubits,NBT/BTC,273753
+420,Binance,Nucleus vision,NCASH/BTC,1295504
+421,Binance,Nuls,NULS/BTC,1139714
+422,Bittrex,Numeraire,NMR/BTC,40432
+423,Kucoin,Nusd,NUSD/BTC,66561
+424,Hitbtc,Nxt,NXT/BTC,248617
+425,Binance,Oax,OAX/BTC,89260
+426,Hitbtc,Obsidian,ODN/BTC,261
+427,Bittrex,Odyssey,OCN/BTC,8270442
+428,Okex,Ofcoin,OF/BTC,147613
+429,Bittrex,Okcash,OK/BTC,11531
+430,Okex,Olympus labs,MOT/BTC,5742
+431,Binance,Omisego,OMG/BTC,745467
+432,Bittrex,Omni,OMNI/BTC,15097
+433,Kucoin,Oneledger,OLT/BTC,66578
+434,Okex,Oneroot network,RNT/BTC,8135
+435,Binance,Ontology,ONT/BTC,2874152
+436,Kucoin,Open platform,OPEN/BTC,29865
+437,Hitbtc,Open trading network,OTN/BTC,190
+438,Hitbtc,Opus,OPT/BTC,104
+439,Okex,Origin sport,ORS/BTC,231466
+440,Kucoin,Origintrail,TRAC/BTC,21100
+441,Hitbtc,Ormeus coin,ORME/BTC,76552
+442,Binance,Ost,OST/BTC,874521
+443,Hitbtc,Own,CHX/BTC,239
+444,Kucoin,Oyster,PRL/BTC,8185
+445,Kucoin,Oyster shell,SHL/BTC,595
+446,Hitbtc,Paragon,PRG/BTC,108
+447,Kucoin,Pareto network,PARETO/BTC,20272
+448,Bittrex,Particl,PART/BTC,143459
+449,Poloniex,Pascal coin,PASC/BTC,8717
+450,Bittrex,Patientory,PTOY/BTC,57421
+451,Hitbtc,Patron,PAT/BTC,31168
+452,Binance,Paxos standard token,PAX/BTC,1380947
+453,Hitbtc,Paymon,PMNT/BTC,1526
+454,Hitbtc,Peculium,PCL/BTC,23712
+455,Hitbtc,Peercoin,PPC/BTC,12220
+456,Hitbtc,Penta,PNT/BTC,0
+457,Bittrex,Pesetacoin,PTC/BTC,5656
+458,Kucoin,Phantasma,SOUL/BTC,1946
+459,Hitbtc,Pillar,PLR/BTC,43
+460,Bittrex,Pinkcoin,PINK/BTC,3150
+461,Binance,Pivx,PIVX/BTC,148115
+462,Kucoin,Playgroundz,IOG/BTC,1143
+463,Hitbtc,Playkey,PKT/BTC,11
+464,Hitbtc,Pluton,PLU/BTC,15129
+465,Binance,Po.et,POE/BTC,365811
+466,Binance,Poa network,POA/BTC,297630
+467,Hitbtc,Polybius,PLBT/BTC,392
+468,Binance,Polymath,POLY/BTC,230791
+469,Hitbtc,Polyswarm,NCT/BTC,16628
+470,Binance,Populous,PPT/BTC,378286
+471,Bittrex,Potcoin,POT/BTC,7596
+472,Binance,Power ledger,POWR/BTC,260153
+473,Hitbtc,Presearch,PRE/BTC,27563
+474,Okex,Primas,PST/BTC,33004
+475,Poloniex,Primecoin,XPM/BTC,5907
+476,Okex,Prochain,PRA/BTC,5371
+477,Hitbtc,Procurrency,PROC/BTC,0
+478,Bitfinex,Project pai,PAI/BTC,2075
+479,Bittrex,Propy,PRO/BTC,28660
+480,Kucoin,Publica,PBL/BTC,2754
+481,Hitbtc,Pumapay,PMA/BTC,278
+482,Binance,Pundi x,NPXS/BTC,1716235
+483,Kucoin,Pura,PURA/BTC,35728
+484,Binance,Qlc chain,QLC/BTC,177517
+485,Binance,Qtum,QTUM/BTC,1320843
+486,Hitbtc,Quanta utility token,QNTU/BTC,207
+487,Binance,Quantstamp,QSP/BTC,401045
+488,Bittrex,Quantum resistant ledger,QRL/BTC,23119
+489,Binance,Quarkchain,QKC/BTC,1605575
+490,Okex,Qunqun,QUN/BTC,37468
+491,Bittrex,Qwark,QWARK/BTC,1048
+492,Bittrex,Radium,RADS/BTC,3156
+493,Binance,Raiden network token,RDN/BTC,158892
+494,Bittrex,Ravencoin,RVN/BTC,323709
+495,Kucoin,Rchain,RHOC/BTC,161873
+496,Okex,Read,READ/BTC,33930
+497,Okex,Realchain,RCT/BTC,7079
+498,Binance,Red pulse phoenix,PHX/BTC,449961
+499,Bittrex,Reddcoin,RDD/BTC,2212452
+500,Bittrex,Refereum,RFR/BTC,270740
+501,Hitbtc,Rentberry,BERRY/BTC,196
+502,Okex,Republic protocol,REN/BTC,28089
+503,Binance,Request network,REQ/BTC,513387
+504,Kucoin,Restart energy mwat,MWAT/BTC,24161
+505,Okex,Revain,R/BTC,16826
+506,Bittrex,Revolutionvr,RVR/BTC,12978
+507,Binance,Ripio credit network,RCN/BTC,538399
+508,Hitbtc,Rivetz,RVT/BTC,24
+509,Bittrex,Rubycoin,RBY/BTC,3074
+510,Binance,Salt,SALT/BTC,242321
+511,Bittrex,Salus,SLS/BTC,36371
+512,Hitbtc,Savedroid,SVD/BTC,667
+513,Hitbtc,Segwit2x,B2X/BTC,19421
+514,Binance,Selfkey,KEY/BTC,1029614
+515,Okex,Selfsell,SSC/BTC,61067
+516,Hitbtc,Sentinel,SENT/BTC,65574
+517,Bittrex,Sentinel protocol,UPP/BTC,26118
+518,Bittrex,Sequence,SEQ/BTC,1225
+519,Hitbtc,Sether,SETH/BTC,0
+520,Bittrex,Shift,SHIFT/BTC,8134
+521,Hitbtc,Shipchain,SHIP/BTC,490
+522,Kucoin,Shivom,OMX/BTC,2804
+523,Okex,Show,SHOW/BTC,97
+524,Binance,Siacoin,SC/BTC,5629386
+525,Bittrex,Sibcoin,SIB/BTC,10026
+526,Binance,Singulardtv,SNGLS/BTC,719210
+527,Binance,Singularitynet,AGI/BTC,127867
+528,Bittrex,Sirin labs token,SRN/BTC,156952
+529,Okex,Six domain chain,SDA/BTC,55766
+530,Hitbtc,Skincoin,SKIN/BTC,352
+531,Binance,Skycoin,SKY/BTC,99844
+532,Hitbtc,Smartcash,SMART/BTC,46438
+533,Hitbtc,Smartmesh,SMT/BTC,208
+534,Okex,Smartshare,SSP/BTC,0
+535,Kucoin,Snovian.space,SNOV/BTC,41351
+536,Hitbtc,Sociall,SCL/BTC,7
+537,Bittrex,Solarcoin,SLR/BTC,2799
+538,Kucoin,Solaris,XLR/BTC,4813
+539,Binance,Sonm,SNM/BTC,134191
+540,Kucoin,Sophiatx,SPHTX/BTC,144959
+541,Hitbtc,Spacechain,SPC/BTC,132
+542,Hitbtc,Spectiv,SIG/BTC,37
+543,Hitbtc,Speed mining service,SMS/BTC,1066
+544,Bittrex,Sphere,SPHR/BTC,18501
+545,Hitbtc,Spindle,SPD/BTC,16605
+546,Okex,Sportyco,SPF/BTC,85260
+547,Bittrex,Spreadcoin,SPR/BTC,2692
+548,Okex,Starchain,STC/BTC,39117
+549,Binance,Status,SNT/BTC,204729
+550,Bittrex,Stealth,XST/BTC,416
+551,Binance,Steem,STEEM/BTC,286398
+552,Bittrex,Steem dollars,SBD/BTC,67284
+553,Binance,Stellar,XLM/BTC,10489015
+554,Kucoin,Stk,STK/BTC,1245
+555,Hitbtc,Stockchain,SCC/BTC,97083
+556,Hitbtc,Storiqa,STQ/BTC,242965
+557,Binance,Storj,STORJ/BTC,239243
+558,Binance,Storm,STORM/BTC,638416
+559,Hitbtc,Stox,STX/BTC,425
+560,Hitbtc,Straks,STAK/BTC,873
+561,Binance,Stratis,STRAT/BTC,250520
+562,Binance,Streamr datacoin,DATA/BTC,666929
+563,Binance,Substratum,SUB/BTC,1021964
+564,Okex,Suncontract,SNC/BTC,91911
+565,Okex,Super bitcoin,SBTC/BTC,4101
+566,Hitbtc,Suretly,SUR/BTC,0
+567,Hitbtc,Swarm,SWM/BTC,64923
+568,Bittrex,Swarm city,SWT/BTC,1980
+569,Okex,Swftcoin,SWFTC/BTC,77201
+570,Kucoin,Swissborg,CHSB/BTC,11324
+571,Bittrex,Syndicate,SYNX/BTC,7404
+572,Bittrex,Synereo,AMP/BTC,18714
+573,Binance,Syscoin,SYS/BTC,323399
+574,Hitbtc,Taas,TAAS/BTC,2835
+575,Hitbtc,Target coin,TGT/BTC,52
+576,Hitbtc,Tatatu,TTU/BTC,51301
+577,Hitbtc,Tcoin,TCN/BTC,56141
+578,Kucoin,Te-food,TFD/BTC,27895
+579,Kucoin,Telcoin,TEL/BTC,213552
+580,Okex,Tenx,PAY/BTC,164276
+581,Bitfinex,Tezos,XTZ/BTC,265894
+582,Hitbtc,The abyss,ABYSS/BTC,2051
+583,Kucoin,Thekey,TKY/BTC,124383
+584,Hitbtc,Themis,GET/BTC,159
+585,Binance,Theta token,THETA/BTC,229219
+586,Binance,Tierion,TNT/BTC,441185
+587,Binance,Time new bank,TNB/BTC,173139
+588,Hitbtc,Tokencard,TKN/BTC,1
+589,Okex,Tokenclub,TCT/BTC,2195
+590,Hitbtc,Tokendesk,TDS/BTC,14101
+591,Bittrex,Tokes,TKS/BTC,365
+592,Hitbtc,Tokia,TKA/BTC,240
+593,Kucoin,Tomochain,TOMO/BTC,55732
+594,Okex,Topchain,TOPC/BTC,21452
+595,Kucoin,Trade token,TIO/BTC,10112
+596,Hitbtc,Tradove b2bcoin,BBC/BTC,1581
+597,Bittrex,Transfercoin,TX/BTC,19281
+598,Kucoin,Traxia,TMT/BTC,63615
+599,Binance,Triggers,TRIG/BTC,873839
+600,Kucoin,Trinity network credit,TNC/BTC,2292
+601,Okex,Tripio,TRIO/BTC,28036
+602,Okex,Tron,TRX/BTC,9000259
+603,Okex,Truechain,TRUE/BTC,53811
+604,Kucoin,Trueflip,TFL/BTC,179422
+605,Binance,Trueusd,TUSD/BTC,4423597
+606,Bittrex,Trustplus,TRUST/BTC,4177
+607,Hitbtc,U network,UUU/BTC,21
+608,Bittrex,Ubiq,UBQ/BTC,313626
+609,Okex,Ubique chain of things,UCT/BTC,31506
+610,Okex,Ugchain,UGC/BTC,33970
+611,Kucoin,Ulord,UT/BTC,16252
+612,Bittrex,Unbreakablecoin,UNB/BTC,10830
+613,Bittrex,Unikoin gold,UKG/BTC,7177
+614,Hitbtc,United traders token,UTT/BTC,1
+615,Bittrex,Uptoken,UP/BTC,8500
+616,Kucoin,Usechain token,USE/BTC,4947
+617,Kucoin,Utrust,UTK/BTC,18946
+618,Binance,Vechain,VET/BTC,2365754
+619,Binance,Verge,XVG/BTC,2547793
+620,Bittrex,Vericoin,VRC/BTC,6494
+621,Hitbtc,Veritaseum,VERI/BTC,5275
+622,Bittrex,Veriumreserve,VRM/BTC,516
+623,Bittrex,Vertcoin,VTC/BTC,63871
+624,Binance,Viacoin,VIA/BTC,191587
+625,Binance,Vibe,VIBE/BTC,913983
+626,Binance,Viberate,VIB/BTC,853446
+627,Hitbtc,Vice industry token,VIT/BTC,286
+628,Okex,Vite,VITE/BTC,219792
+629,Okex,Viuly,VIU/BTC,1244
+630,Hitbtc,Voise,VOISE/BTC,43
+631,Hitbtc,Vouchforme,IPL/BTC,199546
+632,Binance,Wabi,WABI/BTC,157056
+633,Binance,Waltonchain,WTC/BTC,802352
+634,Binance,Wanchain,WAN/BTC,1903043
+635,Binance,Waves,WAVES/BTC,397143
+636,Bittrex,Wax,WAX/BTC,145968
+637,Binance,Wepower,WPR/BTC,235799
+638,Hitbtc,Wetrust,TRST/BTC,179
+639,Bittrex,Whitecoin,XWC/BTC,3337
+640,Hitbtc,Wiki token,WIKI/BTC,44909
+641,Hitbtc,Wild crypto,WILD/BTC,0
+642,Binance,Wings,WINGS/BTC,273826
+643,Okex,Wintoken,WIN/BTC,252
+644,Hitbtc,Worldcore,WRC/BTC,0
+645,Hitbtc,Xaurum,XAUR/BTC,1264
+646,Binance,Xrp,XRP/BTC,70537674
+647,Okex,Yee,YEE/BTC,46194
+648,Okex,You coin,YOU/BTC,449
+649,Binance,Yoyow,YOYO/BTC,472455
+650,Hitbtc,Yuan chain coin,YCC/BTC,14788
+651,Hitbtc,Zap,ZAP/BTC,321
+652,Hitbtc,Zcash,ZEC/BTC,9736749
+653,Bittrex,Zclassic,ZCL/BTC,176981
+654,Binance,Zcoin,XZC/BTC,133828
+655,Okex,Zebi,ZCO/BTC,222445
+656,Kucoin,Zeepin,ZPT/BTC,12521
+657,Hitbtc,Zeusshield,ZSC/BTC,60
+658,Binance,Zilliqa,ZIL/BTC,7196626
+659,Kucoin,Zinc,ZINC/BTC,763
+660,Okex,Zipper,ZIP/BTC,706315
+661,Hitbtc,Zrcoin,ZRC/BTC,31188
